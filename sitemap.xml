@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sercancelenk.github.io/</loc>
+    <lastmod>2018-10-29T20:05:10+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sercancelenk.github.io/portofolio/</loc>
+    <lastmod>2018-10-29T20:05:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sercancelenk.github.io/blog/</loc>
+    <lastmod>2018-10-29T20:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sercancelenk.github.io/source-code-microservices-project/</loc>
+    <lastmod>2018-10-29T20:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sercancelenk.github.io/contact-me/</loc>
+    <lastmod>2018-10-29T20:00:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sercancelenk.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sercancelenk.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
