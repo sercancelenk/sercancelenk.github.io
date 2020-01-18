@@ -1,32 +1,43 @@
-Freelancer Jekyll theme  [![Build Status](https://api.travis-ci.org/jeromelachaud/freelancer-theme.svg?branch=master)](https://travis-ci.org/jeromelachaud/freelancer-theme/) 
-=========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/template-overviews/freelancer/)
+# Resume
 
-## How to use
- - Place a image in `/img/portfolio/`
- - Replace `your-email@domain.com` in `_config.yml` with your email address. Refer to [formspree](http://formspree.io/) for more information.
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+[![Build Status](https://gitlab.com/luisfuentes/resume/badges/master/build.svg)](https://gitlab.com/luisfuentes/resume)
 
----
-```
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
+### *A responsive resume/cv site generator for GitLab Pages. Powered by Mustache templates engine & GitLab CI.*
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
+## Quick Start 🚀
 
----------
-For more details, read the [documentation](http://jekyllrb.com/)
+1. Star this repository. Just kidding, Fork It.
+
+2. Modify **data.json** with your information.
+
+3. Push your changes to gitlab.
+
+Now your resume is public on https://{username}.gitlab.io/resume/
+The default example is here [https://luisfuentes.gitlab.io/resume/](https://luisfuentes.gitlab.io/resume/)
+
+## Work locally
+
+To work locally do a **npm install** and **npm run build** to generate the html files on the **public** folder.
+
+## Customize your resume
+
+To add your style just modify the style.css file in the public folder or the mustache template file to change the layout.
+
+
+## Contribution
+
+Just fork this repo and make a merge request, or drop me a mail at [hola@luisfuentes.me](mailto:hola@luisfuentes.me) 👀
+
+## Next
+
+* Theme support
+* PDF export
+* Publish as a NPM package
+
+## License©️
+
+Default theme designed by [Franklin Schamhart](https://dribbble.com/shots/1887983-Resume).
+
+Resume is licensed under the MIT Open Source license. For more information, see the LICENSE file in this repository.

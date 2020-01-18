@@ -1,0 +1,237 @@
+{
+  "personal": {
+    "name": "Sercan",
+    "surname": "Çelenk",
+    "jobtitle": "[Expert Software Engineer]",
+    "location": {
+      "city": "İstanbul",
+      "country": "Turkey"
+    },
+    "picture": "img/profile.jpg",
+    "bio": "\"Passionate about IT Profession and Computer Engineering. Have years of experience on Software Development. Designed and building several Softwares with Java, Scala, Ruby, Python. Both had experience in Startups and Enterprise Scale organizations..\"",
+    "pdf": "doc/sercancelenk_resume.pdf"
+  },
+  "exp": [
+    { "title": "Expert Software Engineer",
+      "company": "Turkcell Technology",
+      "start": "04/2016",
+      "end": "Present",
+      "desc": "Fizy Music Platform, Magazine Platform, Online Gaming Platform, TV+ Middleware"
+    },
+    { "title": "Senior Software Engineer",
+      "company": "Global Capital Group Online Banking Company",
+      "start": "10/2015",
+      "end": "04/2016",
+      "desc": "Project based working in Payment Team."
+    },
+    {
+      "title": "Head of Core Development",
+      "company": "Dumetech",
+      "start": "01/2015",
+      "end": "01/2016",
+      "desc": "Dumetech is startup company of us. We developed Mesaj.Ninja Project that online messaging platform via Whatsapp, Viber, Bip. Also we acquire reward from BNP Pariba International Hackhaton in Istanbul."
+    },
+    { "title": "Senior Software Engineer",
+      "company": "Turkcell Technology",
+      "start": "10/2013",
+      "end": "01/2015",
+      "desc": "Eclipse Plugin and Middleware development for Release Management in Turkcell."
+    },
+    {
+      "title": "Senior Software Engineer",
+      "company": "Akbank Technology",
+      "start": "04/2012",
+      "end": "11/2013",
+      "desc": "Main Banking Team, development of financial applications."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "EG Software Company",
+      "start": "05/2010",
+      "end": "04/2012",
+      "desc": "Startup Company, Developed Government Applications and R&D Projects."
+    },
+    {
+      "title": "Software Engineer",
+      "company": "Mag Software Company",
+      "start": "04/2008",
+      "end": "05/2010",
+      "desc": "Startup Company, Developed Government Applications and R&D Projects."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Online Gaming Platform",
+      "company": "Company: Turkcell Technology",
+      "details": [
+        {"text" : "Core backend development"},
+        {"text" : "Reactive Programming with Java 1.8 and projectreactor.io. "},
+        {"text" : "Reactive Manifesto, Monads, Functional Programming"},
+        {"text" : "Reactive Apache Kafka Cluster Pub/Sub Messaging and Reactive Websocket"},
+        {"text" : "250000+ connections in one machine on T instant"},
+        {"text" : "Reactive Redis Template, Google Guava Memoizer for in-memory cache"},
+        {"text" : "Spring 5 Webflux"}
+      ]
+    },
+    {
+      "title": "Fizy Music Platform",
+      "company": "Turkcell Technology",
+      "details": [
+        {"text" : "Online Music Streaming Platform"},
+        {"text" : "Core Development"},
+        {"text" : "Spring Cloud Netflix Microservice Architecture, Spring Boot 2.x, Java 1.8 Functional"},
+        {"text" : "Redis Cluster, Redis Sentinel"},
+        {"text" : "Consul Service Registry, Ribbon, Zuul Filter"},
+        {"text" : "Java Concurrency for music content data polling"},
+        {"text" : "Dockerize modules, Openshift, Jenkins integration"}
+      ]
+    },
+    {
+      "title": "Magazine Platform",
+      "company": "Turkcell Technology",
+      "details": [
+        {"text" : "Online Magazine Platform"},
+        {"text" : "Replatform Project from .NET to Java Microservice"},
+        {"text" : "Spring Cloud Netflix Microservice Architecture, Spring Boot 2.x, Java 1.8 Functional"},
+        {"text" : "Hazelcast Multicast Distributed Cache"},
+        {"text" : "Consul Service Registry, Ribbon, Zuul Filter"},
+        {"text" : "Dockerize modules, Openshift, Jenkins integration"}
+      ]
+    },
+    {
+      "title": "TV+ Chat Module",
+      "company": "Turkcell Technology",
+      "details": [
+        {"text" : "Reactive Apache Kafka Messaging, Reactive Websocket, Reactive Redis, Spring 5.x, Reactive Programming"},
+        {"text" : "Spring 5 Webflux"},
+        {"text" : "Mockito JUnit"}
+      ]
+    },
+    {
+      "title": "Goller Cepte Middleware",
+      "company": "Turkcell Technology",
+      "details": [
+        {"text" : "Reactive Apache Kafka Messaging for realtime match details, Reactive Websocket, Reactive Redis, Spring 5.x, Reactive Programming"},
+        {"text" : "Spring 5 Webflux"},
+        {"text" : "Mockito JUnit"}
+      ]
+    },
+    {
+      "title": "Payment Module",
+      "company": "Global Capital Group",
+      "details": [
+        {"text" : "Spring Boot 1.5, Microservice Architecture, ELK, Zepplin, Zuul Filter, Mockito JUnit"}
+      ]
+    },
+    {
+      "title": "FlexDQ - Data Quality Tool for Integrated Systems",
+      "company": "Turkcell Technology",
+      "details": [
+        {"text" : "Spring boot 1.5, Java 1.8, Spring Data, Mysql DB"},
+        {"text" : "Spring Quartz Dynamic Job Scheduling"},
+        {"text" : "Hazelcast Multicast Distributed Cache"},
+        {"text" : "Dockerize modules, Openshift, Jenkins integration"}
+      ]
+    },
+    {
+      "title": "Developer of SDLC for CI / CD and Release Management Processes",
+      "company": "Turkcell Technology",
+      "details": [
+        { "text": "Java 1.7, Spring Data, J2EE, Eclipse Plugin Development, Rest Api" },
+        {"text": "Developed the following modules: Web Api, Schedule Api, Rest Api, Log monitoring Api"},
+        {"text": "Integration of Clearcase and SVN"},
+        {"text": "Eclipse Plugin Development, SWT adapted, Threaded GUI"}
+      ]
+    },
+    {
+      "title": "Hazzmon-io",
+      "company": "Turkcell Technology",
+      "details": [
+        { "text": "Hazelcast Key and Cluster Management Tool" },
+        {"text": "Manage your hazelcast on-demand for your project. Easy setup."},
+        {"text": "Github: https://github.com/sercancelenk/hazzmon-io"},
+        {"text": "Spring Boot 2.x, Hazelcast Supported All Versions, AngularJs 6 for UI"}
+      ]
+    },
+    {
+      "title": "Mesaj.Ninja - Cloud Messaging Application via Whatsapp, Viber",
+      "company": "Dumetech",
+      "details": [
+        { "text": "TEB BNP Paribas Hackathon Winner Project"},
+        { "text": "Spring Technologies, Java 1.8, Java concurrency, Ruby Cucumber Integration, AngularJs"}
+      ]
+    },
+    {
+      "title": "Gundem.in Intelligence News Crawler Application",
+      "company": "Personal",
+      "details": [
+        {"text": "From 200+ resources, crawl and serve news data on mobile phone, Mix news with twitter and facebook"},
+        {"text": "Apache Kafka for crawling data on demand, Ruby Sinatra Framework, Solr for indexing and grouping news"}
+      ]
+    }
+  ],
+  "certificates": [
+    { "title" : "(Mesaj.Ninja Project) BNP Paribas & TEB International Hackhaton Winner in ISTANBUL (2015)", "icon":"fa-trophy text-warning"},
+    { "title" : "Oracle OCA Certificate (2011) (Oracle-Ireland)", "icon":"fa-certificate text-danger"},
+    { "title" : "Java 1.8 New fetures (2015) (Oracle)", "icon":"fa-certificate text-danger"},
+    { "title" : "Java EE (2013-2014) - Oracle", "icon":"fa-certificate text-danger"},
+    { "title" : "Spring Framework Architecture (2013) (kodcu.com)", "icon":"fa-certificate text-danger"},
+    { "title" : "JavaSE and Design Patterns (2007) (Oracle)", "icon":"fa-certificate text-danger"}
+  ],
+  "given_lectures": [
+    { "title" : "Startup Roadmap (I.T.U Cekirdek)"},
+    { "title" : "Reactive Programming (Turkcell Technology)"},
+    { "title" : "Java 1.8 New features (Turkcell Technology)"},
+    { "title" : "Sql Tuning (Bilge Adam)"}
+  ],
+  "interests": [
+    {"title":"In my free time I like playing guitar, playing football, driving a car, and reading politics."},
+    {"title":"Professionally, I like to constantly develop myself, create other fields, learn other languages,produce new ideas and projects. "}
+  ],
+  "additional_skills": [
+    { "title" : "Reactive Programming, Reactive Manifesto, Scalable Systems"},
+    { "title" : "Java 1.6, 1.7, 1.8, Functional Programming, Design Patterns experience (Advanced)"},
+    { "title" : "Dockerize Applications, CI/CD, Jenkins Integrated Applications" },
+    { "title" : "Scala for multithreaded processing with functional"},
+    { "title" : "Clean code, Microservices Architectures"},
+    { "title" : "Spring Rest Docs, Mockito, JUnit"},
+    { "title" : "Spring Data, Rest, Webflux, Oauth, Hibernate, JWT (Advanced)"},
+    { "title" : "Scala for multithreaded processing with functional"},
+    { "title" : "Apache Kafka Messaging (Pub/Sub)"},
+    { "title" : "Redis Sentinel, Redis Server Cluster, Sharding"},
+    { "title" : "Hazelcast Cluster, Google Guava, Ehcache"},
+    { "title" : "Ruby (Intermediate) - Sinatra, Rails Frameworks"}
+  ],
+  "edu": [
+    { "title": "Selçuk University",
+      "department":"Engineering Faculty - Computer Engineering Department",
+      "start": "09/2003",
+      "end": "09/2008",
+      "desc": "Graduated."
+    }
+  ],
+  "details": {
+    "birthday": "12.08.1984",
+    "address": "Istanbul / Turkey",
+    "phone": "[+90 530 200 85 02]",
+    "email": "sercancelenk@gmail.com",
+    "skypeid": "sercancelenk_2",
+    "linkedin": "sercanc",
+    "github": "sercancelenk"
+  },
+  "lang": [
+    {"name": "Eglish", "level": 70}
+  ],
+  "skills": [
+    {"name": "Java", "level": 100},
+    {"name": "Ruby", "level": 70},
+    {"name": "Scala", "level": 60},
+    {"name": "Kafka", "level": 65},
+    {"name": "Redis", "level": 90},
+    {"name": "Hazelcast", "level": 80}
+  ],
+  "links": [
+    {"link": "skype:sercancelenk_2?call", "icon": "fa-skype"},
+    {"link": "https://www.linkedin.com/in/sercanc", "icon": "fa-linkedin-square"}
+  ]
+}

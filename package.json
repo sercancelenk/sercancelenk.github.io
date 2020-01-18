@@ -1,0 +1,29 @@
+{
+  "name": "Resume",
+  "version": "0.0.1",
+  "description": "Resume generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mustache data.json index.mustache > public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/luisfuentes/pituto.git"
+  },
+  "keywords": [
+    "static",
+    "resume",
+    "cv",
+    "generator"
+  ],
+  "author": "Luis Fuentes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/luisfuentes/pituto/issues"
+  },
+  "homepage": "https://gitlab.com/luisfuentes/pituto#README",
+  "devDependencies": {
+    "mustache": "^2.2.1"
+  }
+}
