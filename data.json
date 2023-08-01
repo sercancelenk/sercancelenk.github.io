@@ -378,7 +378,7 @@
   ],
   "details": {
     "birthday": "12.08.1984",
-    "address": "Istanbul / Turkey",
+    "address": "İzmir / Turkey",
     "phone": "[+90 530 200 85 02]",
     "email": "sercancelenk@gmail.com",
     "skypeid": "sercancelenk_2",
@@ -387,14 +387,26 @@
   },
   "lang": [
     {
-      "name": "Eglish",
+      "name": "English",
       "level": 70
     }
   ],
   "skills": [
     {
+      "name": "Reactive Programming",
+      "level": 80
+    },
+    {
+      "name": "Event Driven Architecture",
+      "level": 80
+    },
+    {
       "name": "Java",
       "level": 100
+    },
+    {
+      "name": "Kotlin",
+      "level": 80
     },
     {
       "name": "Ruby",
